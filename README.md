@@ -1,2 +1,2 @@
-# ML-Project-in-class-
+# ML-Projects-in-class-
 In class projects
